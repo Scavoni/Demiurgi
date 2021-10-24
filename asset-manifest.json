@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/Demiurgi/static/js/main.78c87fa9.chunk.js",
-    "main.js.map": "/Demiurgi/static/js/main.78c87fa9.chunk.js.map",
+    "main.js": "/Demiurgi/static/js/main.c3960075.chunk.js",
+    "main.js.map": "/Demiurgi/static/js/main.c3960075.chunk.js.map",
     "runtime-main.js": "/Demiurgi/static/js/runtime-main.d15ac417.js",
     "runtime-main.js.map": "/Demiurgi/static/js/runtime-main.d15ac417.js.map",
-    "static/js/2.6b4c68fa.chunk.js": "/Demiurgi/static/js/2.6b4c68fa.chunk.js",
-    "static/js/2.6b4c68fa.chunk.js.map": "/Demiurgi/static/js/2.6b4c68fa.chunk.js.map",
+    "static/js/2.024905ba.chunk.js": "/Demiurgi/static/js/2.024905ba.chunk.js",
+    "static/js/2.024905ba.chunk.js.map": "/Demiurgi/static/js/2.024905ba.chunk.js.map",
     "index.html": "/Demiurgi/index.html",
-    "static/js/2.6b4c68fa.chunk.js.LICENSE.txt": "/Demiurgi/static/js/2.6b4c68fa.chunk.js.LICENSE.txt"
+    "static/js/2.024905ba.chunk.js.LICENSE.txt": "/Demiurgi/static/js/2.024905ba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d15ac417.js",
-    "static/js/2.6b4c68fa.chunk.js",
-    "static/js/main.78c87fa9.chunk.js"
+    "static/js/2.024905ba.chunk.js",
+    "static/js/main.c3960075.chunk.js"
   ]
 }
