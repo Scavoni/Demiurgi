@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Demiurgi/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Demiurgi/static/js/main.f2be2360.chunk.js",
+    "main.js.map": "/Demiurgi/static/js/main.f2be2360.chunk.js.map",
+    "runtime-main.js": "/Demiurgi/static/js/runtime-main.b9d006aa.js",
+    "runtime-main.js.map": "/Demiurgi/static/js/runtime-main.b9d006aa.js.map",
+    "static/js/2.6c3ffd6f.chunk.js": "/Demiurgi/static/js/2.6c3ffd6f.chunk.js",
+    "static/js/2.6c3ffd6f.chunk.js.map": "/Demiurgi/static/js/2.6c3ffd6f.chunk.js.map",
+    "static/js/3.e8545c7d.chunk.js": "/Demiurgi/static/js/3.e8545c7d.chunk.js",
+    "static/js/3.e8545c7d.chunk.js.map": "/Demiurgi/static/js/3.e8545c7d.chunk.js.map",
+    "index.html": "/Demiurgi/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Demiurgi/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6c3ffd6f.chunk.js.LICENSE.txt": "/Demiurgi/static/js/2.6c3ffd6f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Demiurgi/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9d006aa.js",
+    "static/js/2.6c3ffd6f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f2be2360.chunk.js"
+  ]
+}
